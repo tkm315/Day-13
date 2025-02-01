@@ -16,5 +16,10 @@ git and github
 
 hands-on with git and github
 
+https://github.com/tkm315/Day-13/tree/master/TKM315_book
 
+hand on code
+-------
+
+UNION,INTERSECT,EXCEPT,CTE
 
